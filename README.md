@@ -20,10 +20,4 @@ This implementation highly based on official code [yao8839836/text_gcn](<https:/
 
 ## Visualization
 
-### R8
-
-<div align="center">    
-<img src="https://github.com/iworldtong/text_gcn.pytorch/blob/master/src/R8_gcn_test.png?raw=true" width="500px" height="400px" alt="R8_gcn_test" align=center />
-</div>
-
-"# CSI5137" 
+Check P1_gcn_doc_test.pdf and P2_gcn_doc_test.pdf
