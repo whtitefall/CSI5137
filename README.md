@@ -16,7 +16,7 @@ This implementation highly based on official code [yao8839836/text_gcn](<https:/
 3. Run `python build_graph.py <dataset>`
 4. `cd ..`
 5. Run `python train.py <dataset>`
-6. Replace `<dataset>` with `20ng`, `R8`, `R52`, `ohsumed` or `mr`
+6. Replace `<dataset>` with `P1`, `P2`
 
 ## Visualization
 
